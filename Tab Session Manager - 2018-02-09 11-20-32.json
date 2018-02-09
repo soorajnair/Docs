@@ -1,0 +1,857 @@
+[
+    {
+        "windows": {
+            "5": {
+                "1": {
+                    "id": 1,
+                    "index": 28,
+                    "windowId": 5,
+                    "highlighted": true,
+                    "active": true,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518155432249,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "moz-extension://7deafaf5-2de0-4bbe-b5d1-4c0f5322976e/options/options.html#sessions",
+                    "title": "Tab Session Manager",
+                    "favIconUrl": "moz-extension://7deafaf5-2de0-4bbe-b5d1-4c0f5322976e/icons/icon_min.svg"
+                },
+                "2": {
+                    "id": 2,
+                    "index": 27,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518155415281,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://addons.mozilla.org/en-US/firefox/collections/add",
+                    "title": "Create a New Collection :: Add-ons for Firefox",
+                    "favIconUrl": "https://addons.cdn.mozilla.net/static/img/favicon.ico?b=a821a2a3-5a79e5d2"
+                },
+                "3": {
+                    "id": 3,
+                    "index": 0,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1517900904851,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html",
+                    "title": "08 Rock Paper Scissors",
+                    "favIconUrl": "http://www.practicepython.org/favicon.png"
+                },
+                "4": {
+                    "id": 4,
+                    "index": 1,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518150728511,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions",
+                    "title": "5. Data Structures — Python 2.7.14 documentation",
+                    "favIconUrl": "https://docs.python.org/2/_static/py.png"
+                },
+                "5": {
+                    "id": 5,
+                    "index": 2,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518154459794,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#SecurityGroups:groupId=sg-31bd4644;sort=groupId",
+                    "title": "EC2 Management Console",
+                    "favIconUrl": "https://awsmedia.s3.amazonaws.com/favicon.ico"
+                },
+                "6": {
+                    "id": 6,
+                    "index": 3,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518149916547,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://russell.ballestrini.net/filtering-aws-resources-with-boto3/",
+                    "title": "Filtering AWS resources with Boto3 – Russell Ballestrini",
+                    "favIconUrl": "https://russell.ballestrini.net/favicon.ico"
+                },
+                "7": {
+                    "id": 7,
+                    "index": 4,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518149920017,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://boto3.readthedocs.io/en/latest/guide/s3-example-creating-buckets.html",
+                    "title": "Creating and Using Amazon S3 Buckets — Boto 3 Docs 1.5.24 documentation",
+                    "favIconUrl": "https://boto3.readthedocs.io/favicon.ico"
+                },
+                "8": {
+                    "id": 8,
+                    "index": 5,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1517883061519,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://www.pythonforbeginners.com/error-handling/exception-handling-in-python",
+                    "title": "Exception Handling in Python",
+                    "favIconUrl": "http://www.pythonforbeginners.com/static/img/favicon.ico"
+                },
+                "9": {
+                    "id": 9,
+                    "index": 6,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1517983649782,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://nullege.com/codes/search/boto",
+                    "title": "boto - Nullege Python Samples",
+                    "favIconUrl": "http://nullege.com/favicon.ico"
+                },
+                "10": {
+                    "id": 10,
+                    "index": 7,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1517983660965,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://pythonexample.com/code/export-ec2-instance-list-to-excel/",
+                    "title": "Export Ec2 Instance List To Excel - pythonexample.com",
+                    "favIconUrl": "https://pythonexample.com/favicon.ico"
+                },
+                "11": {
+                    "id": 11,
+                    "index": 8,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1517983672191,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://blog.hostonnet.com/s3",
+                    "title": "Upload files to Amazon S3 from Linux Command Line | HostOnNet.com",
+                    "favIconUrl": "https://blog.hostonnet.com/favicon.ico"
+                },
+                "12": {
+                    "id": 12,
+                    "index": 9,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "loading",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518068746170,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://www.pythonforbeginners.com/cheatsheet/python-file-handling",
+                    "title": "File Handling Cheat Sheet in Python",
+                    "favIconUrl": "http://www.pythonforbeginners.com/static/img/favicon.ico"
+                },
+                "13": {
+                    "id": 13,
+                    "index": 10,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1517883050607,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.tutorialspoint.com/index.htm",
+                    "title": "Logo, PySpark, Google Tag Manager, Adobe InDesign, IFSC Code, SAP Workflow, Scipy, Angular 4, D3js, dcjs, Rich Faces, Spring Boot,SAP Hybris, FlexBox, Axure RP, OpenShift, Apache Bench, qTest, TestLodge, Power BI, Jython, Financial Accounting, Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions, Examples, Online, Quiz, Current Affairs 2017, Aptitude Test, Verbal Ability, General Knowledge, Reasoning, Mock test, Kubernetes, Spring JDBC, Java Concurrency, Spring AOP, Gerrit, Spring MVC, Indian Polity, History, Geography, Biology, Physics, Chemistry and Economy",
+                    "favIconUrl": "https://www.tutorialspoint.com/favicon.ico"
+                },
+                "14": {
+                    "id": 14,
+                    "index": 11,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1517883041507,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.tutorialspoint.com/python/index.htm",
+                    "title": "Python Tutorial",
+                    "favIconUrl": "https://www.tutorialspoint.com/favicon.ico"
+                },
+                "15": {
+                    "id": 15,
+                    "index": 12,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518073858019,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://docs.djangoproject.com/en/2.0/intro/install/",
+                    "title": "Quick install guide | Django documentation | Django",
+                    "favIconUrl": "https://docs.djangoproject.com/s/img/favicon.6dbf28c0650e.ico"
+                },
+                "16": {
+                    "id": 16,
+                    "index": 13,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518137777352,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "openerTabId": 15,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://docs.djangoproject.com/en/2.0/intro/tutorial02/",
+                    "title": "Writing your first Django app, part 2 | Django documentation | Django",
+                    "favIconUrl": "https://docs.djangoproject.com/s/img/favicon.6dbf28c0650e.ico"
+                },
+                "17": {
+                    "id": 17,
+                    "index": 14,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518154463568,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "openerTabId": 15,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://docs.djangoproject.com/en/2.0/intro/install/",
+                    "title": "Quick install guide | Django documentation | Django",
+                    "favIconUrl": "https://docs.djangoproject.com/s/img/favicon.6dbf28c0650e.ico"
+                },
+                "18": {
+                    "id": 18,
+                    "index": 15,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518154441643,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://aws.amazon.com/blogs/",
+                    "title": "AWS Blog",
+                    "favIconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+                },
+                "19": {
+                    "id": 19,
+                    "index": 16,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 627,
+                    "lastAccessed": 1518141171221,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.tutorialspoint.com/python/python_reg_expressions.htm",
+                    "title": "Python Regular Expressions",
+                    "favIconUrl": "https://www.tutorialspoint.com/favicon.ico"
+                },
+                "20": {
+                    "id": 20,
+                    "index": 17,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518152103167,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.tutorialspoint.com/django/django_environment.htm",
+                    "title": "Django Environment",
+                    "favIconUrl": "https://www.tutorialspoint.com/favicon.ico"
+                },
+                "21": {
+                    "id": 21,
+                    "index": 18,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518150306294,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "openerTabId": 20,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.djangoproject.com/download/",
+                    "title": "Download Django | Django",
+                    "favIconUrl": "https://www.djangoproject.com/s/img/favicon.6dbf28c0650e.ico"
+                },
+                "22": {
+                    "id": 22,
+                    "index": 19,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518150308384,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://tutorial.djangogirls.org/en/",
+                    "title": "Introduction · Django Girls Tutorial",
+                    "favIconUrl": "https://tutorial.djangogirls.org/gitbook/images/favicon.ico"
+                },
+                "23": {
+                    "id": 23,
+                    "index": 20,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518150327776,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://djangobook.com/django-admin-site/",
+                    "title": "The Django Admin Site - Python Django Tutorials",
+                    "favIconUrl": "https://djangobook.com/wp-content/uploads/2016/09/cropped-djangobooklogo-1-100x100.png"
+                },
+                "24": {
+                    "id": 24,
+                    "index": 21,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518150316377,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment",
+                    "title": "Setting up a Django development environment - Learn web development | MDN",
+                    "favIconUrl": "https://cdn.mdn.mozilla.net/static/img/favicon32.7f3da72dcea1.png"
+                },
+                "25": {
+                    "id": 25,
+                    "index": 22,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518152260853,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://stackoverflow.com/questions/2260727/how-to-access-the-local-django-webserver-from-outside-world",
+                    "title": "python - How to access the local Django webserver from outside world - Stack Overflow",
+                    "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"
+                },
+                "26": {
+                    "id": 26,
+                    "index": 23,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518152045302,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://54.226.52.254/admin/",
+                    "title": "Site administration | Django site admin"
+                },
+                "27": {
+                    "id": 27,
+                    "index": 24,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518154439185,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners",
+                    "title": "An Intro to Git and GitHub for Beginners (Tutorial)",
+                    "favIconUrl": "https://www.hubspot.com/Portals/53/favicon.ico"
+                },
+                "28": {
+                    "id": 28,
+                    "index": 25,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518155342084,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://github.com/soorajnair/pyt",
+                    "title": "soorajnair/pyt",
+                    "favIconUrl": "https://assets-cdn.github.com/favicon.ico"
+                },
+                "29": {
+                    "id": 29,
+                    "index": 26,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518155303158,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server",
+                    "title": "Git - Setting Up the Server",
+                    "favIconUrl": "https://git-scm.com/favicon.ico"
+                }
+            }
+        },
+        "tabsNumber": 29,
+        "name": "Tab Session Manager",
+        "date": "2018-02-09T05:50:32.259Z",
+        "tag": [
+            "winClose",
+            "temp"
+        ],
+        "sessionStartTime": 1518155403809,
+        "id": "390fa942-1544-4ac9-811d-0af4abb972ca"
+    }
+]
