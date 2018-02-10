@@ -1,0 +1,333 @@
+[
+    {
+        "windows": {
+            "5": {
+                "1": {
+                    "id": 1,
+                    "index": 0,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518248760953,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html",
+                    "title": "08 Rock Paper Scissors",
+                    "favIconUrl": "http://www.practicepython.org/favicon.png"
+                },
+                "4": {
+                    "id": 4,
+                    "index": 2,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249026668,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://russell.ballestrini.net/filtering-aws-resources-with-boto3/",
+                    "title": "Filtering AWS resources with Boto3 – Russell Ballestrini",
+                    "favIconUrl": "https://russell.ballestrini.net/favicon.ico"
+                },
+                "6": {
+                    "id": 6,
+                    "index": 3,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249078354,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://boto3.readthedocs.io/en/latest/reference/services/ec2.html#EC2.Client.describe_instances",
+                    "title": "EC2 — Boto 3 Docs 1.5.26 documentation",
+                    "favIconUrl": "https://boto3.readthedocs.io/favicon.ico"
+                },
+                "7": {
+                    "id": 7,
+                    "index": 4,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249077134,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://www.pythonforbeginners.com/error-handling/exception-handling-in-python",
+                    "title": "Exception Handling in Python",
+                    "favIconUrl": "http://www.pythonforbeginners.com/static/img/favicon.ico"
+                },
+                "8": {
+                    "id": 8,
+                    "index": 5,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249075835,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "http://nullege.com/codes/search/boto.ec2.connection.EC2Connection/all/-1/0/python/page:2",
+                    "title": "boto.ec2.connection.EC2Connection - Nullege Python Samples",
+                    "favIconUrl": "http://nullege.com/favicon.ico"
+                },
+                "9": {
+                    "id": 9,
+                    "index": 6,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249072687,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://pythonexample.com/code/export-ec2-instance-list-to-excel/",
+                    "title": "Export Ec2 Instance List To Excel - pythonexample.com",
+                    "favIconUrl": "https://pythonexample.com/favicon.ico"
+                },
+                "10": {
+                    "id": 10,
+                    "index": 7,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249075015,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://blog.hostonnet.com/s3",
+                    "title": "Upload files to Amazon S3 from Linux Command Line | HostOnNet.com",
+                    "favIconUrl": "https://blog.hostonnet.com/favicon.ico"
+                },
+                "13": {
+                    "id": 13,
+                    "index": 8,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249086877,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.tutorialspoint.com/python/python_cgi_programming.htm",
+                    "title": "Python CGI Programming",
+                    "favIconUrl": "https://www.tutorialspoint.com/favicon.ico"
+                },
+                "14": {
+                    "id": 14,
+                    "index": 9,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249096787,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.djangoproject.com/start/",
+                    "title": "Getting started with Django | Django",
+                    "favIconUrl": "https://www.djangoproject.com/s/img/favicon.6dbf28c0650e.ico"
+                },
+                "15": {
+                    "id": 15,
+                    "index": 10,
+                    "windowId": 5,
+                    "highlighted": false,
+                    "active": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249100148,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://aws.amazon.com/blogs/",
+                    "title": "AWS Blog",
+                    "favIconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+                },
+                "29": {
+                    "id": 29,
+                    "index": 1,
+                    "windowId": 5,
+                    "highlighted": true,
+                    "active": true,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1366,
+                    "height": 664,
+                    "lastAccessed": 1518249111629,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://docs.python.org/2.7/tutorial/appetite.html",
+                    "title": "1. Whetting Your Appetite — Python 2.7.14 documentation",
+                    "favIconUrl": "https://docs.python.org/2.7/_static/py.png"
+                }
+            }
+        },
+        "tabsNumber": 11,
+        "name": "1. Whetting Your Appetite — Python 2.7.14 documentation",
+        "date": "2018-02-10T07:51:51.637Z",
+        "tag": [],
+        "sessionStartTime": 1518241324397,
+        "id": "6d24e586-040e-427a-8042-4a8989195ccf"
+    }
+]
